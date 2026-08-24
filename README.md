@@ -1,4 +1,4 @@
-# Hi, I'm Soe Thuram — you can call me thixpin.
+# Hi, I'm Soe Thura — you can call me thixpin.
 
 **Software Engineer · DevOps · AWS Community Builder**
 
