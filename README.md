@@ -42,8 +42,10 @@ Writing about technology, ideas, and things I find interesting.
 
 - 🏎️ [PitWay](https://github.com/thixpin/pitway)
   — The pit crew for agentic coding
-- 📚 [Agentic Coding Basic](https://github.com/thixpin/agentic-coding-basic)
+- 📚 [Agentic Coding Basic](https://github.com/thixpin/agentic-basic)
   — Practical foundations for agentic coding
+- 📖 [Markdown to Book](https://github.com/thixpin/md2book)
+  — Build print PDF, EPUB and web editions of Markdown books
 
 ## 🏍️ Beyond Code
 
